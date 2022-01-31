@@ -1,8 +1,8 @@
 ##
 <div>
   <a href="https://github.com/FelipeJozala">
-   <img width="55%" src="https://github-readme-stats.vercel.app/api?  username=FelipeJozala&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;
-   <img width="40%"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJozala&layout=compact&langs_count=6&theme=dark"/>
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?  username=FelipeJozala&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="40%"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJozala&layout=compact&langs_count=6&theme=dark"/>
   </a>
 </div>  
 <div>
@@ -15,9 +15,9 @@
   ##
   
 <div style="display: inline_block">
-<p>Currently learning..</p>
-<img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" height="50em" style="color: #fffff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <p>Currently learning..</p>
+  <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" height="50em" style="color: #fffff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"    />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
